@@ -1,0 +1,309 @@
+TERADATA:
+1)	List of palindromes in a string
+2)	Prove that 2*2 matrix is subset of 3*3 matrix.
+Cognizant:
+1)	Java 8 features
+2)	Java 7 features (try with resources)
+3)	Java 5 features (enums, generics, annotations)
+4)	Why we need to use enums instead of constant file.
+5)	Annotations are compile time or runtime?
+6)	Use of Autoboxing / unboxing
+7)	Diff Comparator , comparable w.r.t code
+8)	Immutable class
+9)	Double check locking in singleton
+10)	Cross cutting concerns
+11)	Map iteration
+12)	Dependency injection is created on which framework
+13)	Why cloud
+14)	Cf push interal mechanism
+15)	Second level cache in hibernate
+16)	Enums
+17)	Diff b/w Micro services and restful web service
+18)	Arraylist internal implementation
+19)	Hash collision
+20)	Intern() method
+21)	Deep cloning vs shallow cloning
+UHG:
+1)	Implement our own HashMap
+2)	Find the Kth largest element in the LinkedList
+3)	What is the main diff b/w micro service and mono lithic architecture
+4)	Spring bean lifecycle
+5)	Jprofiler use
+6)	@component in spring
+7)	How to implement proper singleton in multi threaded env
+8)	String constant pool vs heap mem
+9)	Why string is immutable
+HCL:
+1)	OOPS concepts
+2)	Comparator vs comparable
+3)	Map internal implementation
+4)	Servlet context vs servlet config
+5)	Life cycle of servlet
+6)	Forward vs include in servlet and jsp
+7)	Request dispatcher vs send redirect
+8)	Implicit variables
+9)	View resolvers use in spring
+10)	Html 5 vs html 4
+11)	Css and css3
+12)	Node and npm
+13)	Abstract class vs interface
+14)	Sort the keys of a Map in Ascending order
+15)	How to display service side exception in angular UI
+16)	Proj Architecture
+17)	Why spring boot
+18)	Spring JPA module
+19)	One to Many relationships in Hibernate or JPA
+20)	Spring zuul gateway use
+21)	What are required to consume a SOAP web service
+22)	How you will call Rest ful web services from our application
+23)	How you provide security to your web service
+24)	JPA Entity Manager
+
+CGI:
+1)	Concurrency, ehcahe  in Hibernate 
+2)	Transaction Management in our Application
+3)	How you implement cache in our application
+4)	Junit Mockito Annotations
+5)	Exception Handling in spring
+6)	Logging in our application
+7)	JProfiler usage
+8)	Java8 features
+9)	Diff b/w angular 1 4 and 5
+10)	How to deploy angular app in cloud
+11)	How you handle Memory leaks in application
+12)	What components you created in angular
+13)	Design patterns that we have used in the project
+14)	Spring batch, spring aop.
+15)	Spring life cycle
+16)	Gradle tags
+17)	Jenkins conf
+18)	Hibernate Associations
+19)	Concurrent hashmap vs Weak hashmap
+ADP:
+1)	JDBC follows which design pattern
+2)	Second largest element of array
+3)	Need of synchronized in singleton class
+4)	Can we serialize enums
+5)	How to avoid singleton class not to be serialized
+6)	Need to get max no of employees in a city if we store key as a employee name and value as a city in Hash Map
+7)	If we get an exception in servlet which object do we need to use to return
+8)	Get the length of last word in a sentence which is stored in string
+9)	Weak HashMap
+10)	Which class cannot be inherited
+JP Morgan Client round:
+1)	Write junits for calculator app
+2)	Write a custom annotation in spring
+3)	Sort an array of int
+4)	What is spring aop
+5)	Maven lifycycle
+6)	What is goal in maven
+7)	Explain spring mvc
+8)	What is model,view (will it provides abstraction on entire mechanism)
+9)	What are adv and disadv of using hibernate in spring mvc
+10)	Create custom jsp error pages for a shopping cart application
+11)	Explain the entire process of consuming a REST service
+12)	What is the use of a controller cant we directly call a service classes from views
+13)	What is method overloading
+14)	Why do we need to use interfaces in web application
+15)	Eventhough you do interface injection you still need to change the code in case of new impl class, then what is the use?
+16)	Why can’t we use abstract classes instead of interfaces
+17)	What is autowiring .what are the adv and disadv of autowiring
+18)	Write a custom annotation
+
+Birla Soft:
+1) count the no. of characters in a string
+sandeep -
+s -1
+a-1
+.
+.
+e-2
+2) Tell me about yourself
+3) Project architecture
+4) Spring MVC architecture
+5) tell me all the Annotations u have used in your projects
+6) diff b/w Session and SessionFactory objs.
+7) write jdbc code(con, st, rs)
+8) what are jsp inbuilt objs
+9) explain joins
+10) what all design patterns u used apart from singleton pattern
+11) diff b/w get and load
+13) what is spring ioc
+14) what is dependency injection
+15) when to use setter injection and constructor injection
+16) Explain HashMap implementation
+17) Explain Concurrent hashmap
+18) What is synchronization
+19) What is the version of the fmwks u used, what is jdk version
+20) Why do u want to switch.
+21) Difference b/w ArrayList and LinkedList
+22) How do you sort a collection.
+25) Diff b/w comparable and comparator(apart from natural sorting, custom sorting difference)
+26) What are bean scopes in spring
+27) Why Embedded annotation is used
+28) Explain oops principles
+29) Why do you add a dialect in Hibernate application.
+ 
+12)Diff b/w Application context and bean factory
+30) explain life cycle of a spring bean
+31) what are scriptlets in jsp
+32) How to create a singleton class
+33) How to create custom tags in jsp
+34) What are the new features in JDK 7, java 8 and java9
+
+DBS:
+1)	What is Weak hashmap, 
+2)	Implementation of concurrent hashmap, 
+3)	which collection is best if you need to fetch the element at millionth location,
+4)	 which map is used for shallow comparision
+5)	how do you implement asynchronous calls in rest,
+6)	 how do you handle exception in your controller class without try and catch,
+7)	 how do you run SQL scripts in your project, 
+8)	how do you eliminate giving SQL scripts issue with the help of hibernate, 
+9)	maven circular dependency, 
+10)	what response code do you send if the json structure is not matching with Java object,
+11)	 what response do you send if the rest call to a thrid party server is not returning any result
+12)	Circular dependency in spring
+13)	when will you see class def not found error and when will you see class not found exception.
+14)	While doing coding which exceptions do you like to work on.
+15)	Is it possible to change the key in a hashmap
+JPMC client round
+1)	Write junits for calculator app, 
+2)	write a custom annotation in spring,
+3)	 sort an array of int, 
+4)	what is spring aop, 
+5)	maven lifecycle, 
+6)	what is goal in maven, 
+7)	explain spring mvc, 
+8)	explain mvc,
+9)	 what is model,
+10)	 what is view( told it provides abstraction on top of entire mechanism), 
+11)	what are adv and disadv of adding hibernate in spring mvc, 
+12)	create custom jsp error pages for a shopping cart application, 
+13)	explain the entire process of consuming a rest service, 
+14)	what is the use of a controller can't u directly call service classes from views, 
+15)	what is method overloading, 
+16)	why do you need to use interfaces in web application, 
+17)	even though you do interface injection you still need to change the code in case of new impl class, then what is the use.
+18)	why can’t we use abstract classes instead of interfaces, 
+19)	what is autowiring and what are the advantages and disadvantages, etc..
+Value Labs:
+1)	Diff between stack and heap memory
+2)	What is diff between soap and rest. 
+3)	Program on static keyword. 
+Test t=null;
+t.staticmethod();
+what will be the o/p will it throw NPE?
+4)	Project architecture. 
+5)	How to access private methods in junits , (ans reflection API and mockito). 
+6)	What is IOC. 
+7)	How do you do the testing without hitting DB, (ans will create a mock repository). 
+8)	Jsp inbuilt objects. 
+9)	Lifecycle methods in servlet. 
+10)	Different ways to manage session in servlets, (ans  httpsession, cookies, hidden fields). 
+11)	What is mockito. 
+12)	Which version control you are using. 
+13)	What are the mappings in hibernate. 
+14)	What are the collections you have used. 
+15)	Caching in hibernate. 
+16)	What are the oops principles. 
+17)	What is synchronization. 
+18)	What is diff between vector and list. 
+19)	What is the difference between hashmap and hashtable. 
+20)	When will you get concurrent modification exception. 
+21)	How to create custom exception. 
+22)	What is meant by throws exception.
+ADP:
+1)	Hibernate- criteria , 
+2)	restrictions, 
+3)	query cache, 
+4)	cyclic dependency , 
+5)	when to use update, save and delete(equivalent methods) , 
+6)	lazy and eager loading, 
+7)	cascading 
+8)	How do you move the detached state to persistent state and types of object states
+9)	Thread-notify and wait, 
+10)	deadlock and solution
+11)	Spring - DI , why can’t we use new operator ? 
+12)	Spring mvc flow
+13)	Spring batch - item reader and cron scheduler
+14)	Rest vs soap 
+15)	How to do you parse XML 
+16)	Transaction management in hibernate 
+17)	Join in hibernate 
+18)	Inner join 
+19)	How do you add logger msg in jsp 
+20)	How do you implement retry mechanism for failed transactions in case of bulk processing
+Welsfargo:
+1)	Spring Transaction Management(If there are 10 sql statements if one fails all the others should fail how do you achieve that)
+2)	What is Manual Wiring and AutoWiring
+3)	What are directives in Angular js
+4)	What is ng-data
+5)	How to do Exception handling in Angular js
+6)	How do you implement security in your application
+7)	Are spring beans thread safe
+
+
+Miscellaneous Questions:
+1)	HB session Mgmt
+2)	Eager loading
+3)	Concurrency Types(Read, ReadorWrite)
+4)	How do you acheive inner join in HB
+5)	Best practices in HB
+6)	How many types of asserts are there
+7)	Diff b/w ant build and ant deploy
+8)	What is callback interface
+9)	ORM levels
+10)	Instance states(Transient, Persist, Detached)
+11)	IOC vs Di
+12)	Features of IOC other than Di
+13)	How do you design a Login page
+14)	What is mutlithreading, how do you get the statistics
+15)	What is Synchronization
+16)	What is volatile
+17)	What is diff b/w volatile and static?
+18)	Can we write a single query to (delete record from both parent and child tables which have a FK relationship using a single query) using jdbc
+19)	What is diff b/w Hashmap and concurrent hashmap
+20)	What is diff b/w concurrent Hashmap and Synchronized hashmap(Synchronized Collection)
+21)	How to implement security in REST WS(Not https)
+22)	How to give PDF file as o/p from REST call
+23)	ways to create Thread, any simple way
+24)	Concurrency in Hibernate
+
+
+UHG:
+1)	Application vs pageContext  jsp objects.
+2)	What will Interrupt method do in multithreading
+3)	How do you implement String pool similar to String class
+4)	8 Queens problem
+5)	How do you implement chess board
+6)	How do you achieve pagination in HB
+7)	Find sub palindromes
+8)	Write custom HashMap
+9)	Where does Static variables gets stored in which memory?
+10)	Explain the memories we have in java
+11)	Explain load balancer
+12)	Diff b/w spring context and config
+13)	Interface Injection
+14)	Optimize the sub palindromes pbm.
+
+
+
+CTS:
+1)	Matrix programs(print  all the boundaries, print diagonal elements)
+
+
+WellsFargo :
+1.	Name 5 annotations you used in spring mvc and explain them
+2.	Spring exception handling 
+3.	Spring Internationalization
+4.	How do you parse the SOAP response
+5.	Interceptors in SOAP, when do we use them
+6.	Purpose of flush() in hibernate
+7.	How to get an element by Name in jquery
+8.	SOAP vs REST
+9.	SOAP body structure format.
+10.	Transaction management in spring ( explained about declarative approach)
+11.	Spring Bean scope and what is the default scope
+
+
